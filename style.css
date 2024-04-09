@@ -1,0 +1,12 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid black;
+  }
+#inputs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    flex-direction: column;
+}
