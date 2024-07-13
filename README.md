@@ -5,4 +5,5 @@ A simple game of clicking circles and measure reaction time using js canvas.
 The UI is in Polish.
 
 ## preview
-![image](https://github.com/user-attachments/assets/aa9c2d7b-39cb-4cf9-b68f-c2daeb274ff0)
+![preview](https://github.com/user-attachments/assets/5c3bc56d-d251-481d-bdfd-d6205c4617ef)
+
